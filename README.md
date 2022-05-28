@@ -144,7 +144,7 @@ Feel free to open an issue if you have any problem using the module.
 
 ## Support the project
 
-<a href="https://www.buymeacoffee.com/alirezam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="45" width="163" ></a>
+0x40F06E0429F3aE260F94d93a700c8bC3502d9B54
 
 
 #### Happy Coding  ♥️
